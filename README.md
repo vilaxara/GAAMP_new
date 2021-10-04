@@ -1,5 +1,6 @@
 # GAAMP_new
-Working GAAMP scripy
+Working GAAMP script.
+
 If you are using the code please site :
 
 Huang L., Roux B., J. Chem. Theory Comput. 2013, 9, 3543-3556
